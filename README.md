@@ -17,7 +17,7 @@
 
 💬 Ask me about **React, TypeScript, Web3, Firebase... or anything [here](https://github.com/Emmy123222)**
 
-⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
 
 </div>
 
@@ -30,9 +30,7 @@
   <a href="https://linkedin.com/in/emmanuelogheneovo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
+ 
 </div>
 
 <hr/>
